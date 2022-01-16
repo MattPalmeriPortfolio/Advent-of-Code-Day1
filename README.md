@@ -5,7 +5,6 @@ Contents
 ---------------------
 * File Contents
 * Introduction
-* Algorithm
 * Requirements
 
 ## File Contents
